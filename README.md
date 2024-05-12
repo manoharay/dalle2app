@@ -1,6 +1,6 @@
 # DALLE2 Application
 
-Welcome to the first version of the DALLE2 application! You can try the application [here]([link](https://dalle2inpainter.streamlit.app/)). With this application, you can take a picture of yourself, provide a prompt, and adjust settings to generate a resulting image.
+Welcome to the first version of the DALLE2 application! You can try the application [here](https://dalle2inpainter.streamlit.app/). With this application, you can take a picture of yourself, provide a prompt, and adjust settings to generate a resulting image.
 
 ## Installation
 
